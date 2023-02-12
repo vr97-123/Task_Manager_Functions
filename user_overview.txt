@@ -1,0 +1,80 @@
+﻿───────────────────────────────────────────────────────────────────────────────────────────────
+										[94mUSER OVERVIEW[0m
+───────────────────────────────────────────────────────────────────────────────────────────────
+Total number of tasks generated and tracked using the SMALL BUSINESS TASK MANAGER:	 15
+Total number of users registered in the SMALL BUSINESS TASK MANAGER:				 12
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: admin
+Total number of tasks assigned to				 admin: 3
+Total number of tasks completed by				 admin: 1
+Total number of tasks not yet completed by		 admin: 2
+Total number of tasks overdue from				 admin: 0
+Percentage of tasks assigned to admin that have been completed:							 33.33%
+Percentage of tasks assigned to admin that must still be completed:						 66.67%
+Percentage of tasks assigned to admin that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: user1
+Total number of tasks assigned to				 user1: 2
+Total number of tasks completed by				 user1: 0
+Total number of tasks not yet completed by		 user1: 2
+Total number of tasks overdue from				 user1: 0
+Percentage of tasks assigned to user1 that have been completed:							 0.0%
+Percentage of tasks assigned to user1 that must still be completed:						 100.0%
+Percentage of tasks assigned to user1 that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: user2
+Total number of tasks assigned to				 user2: 3
+Total number of tasks completed by				 user2: 1
+Total number of tasks not yet completed by		 user2: 2
+Total number of tasks overdue from				 user2: 2
+Percentage of tasks assigned to user2 that have been completed:							 33.33%
+Percentage of tasks assigned to user2 that must still be completed:						 66.67%
+Percentage of tasks assigned to user2 that have not yet been completed and are overdue:	 66.67%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: tom
+Total number of tasks assigned to				 tom: 2
+Total number of tasks completed by				 tom: 1
+Total number of tasks not yet completed by		 tom: 1
+Total number of tasks overdue from				 tom: 1
+Percentage of tasks assigned to tom that have been completed:							 50.0%
+Percentage of tasks assigned to tom that must still be completed:						 50.0%
+Percentage of tasks assigned to tom that have not yet been completed and are overdue:	 50.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: user3
+Total number of tasks assigned to				 user3: 1
+Total number of tasks completed by				 user3: 1
+Total number of tasks not yet completed by		 user3: 0
+Total number of tasks overdue from				 user3: 0
+Percentage of tasks assigned to user3 that have been completed:							 100.0%
+Percentage of tasks assigned to user3 that must still be completed:						 0.0%
+Percentage of tasks assigned to user3 that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: joe
+Total number of tasks assigned to				 joe: 2
+Total number of tasks completed by				 joe: 1
+Total number of tasks not yet completed by		 joe: 1
+Total number of tasks overdue from				 joe: 0
+Percentage of tasks assigned to joe that have been completed:							 50.0%
+Percentage of tasks assigned to joe that must still be completed:						 50.0%
+Percentage of tasks assigned to joe that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: mary
+Total number of tasks assigned to				 mary: 1
+Total number of tasks completed by				 mary: 0
+Total number of tasks not yet completed by		 mary: 1
+Total number of tasks overdue from				 mary: 0
+Percentage of tasks assigned to mary that have been completed:							 0.0%
+Percentage of tasks assigned to mary that must still be completed:						 100.0%
+Percentage of tasks assigned to mary that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+Username: moe
+Total number of tasks assigned to				 moe: 1
+Total number of tasks completed by				 moe: 0
+Total number of tasks not yet completed by		 moe: 1
+Total number of tasks overdue from				 moe: 0
+Percentage of tasks assigned to moe that have been completed:							 0.0%
+Percentage of tasks assigned to moe that must still be completed:						 100.0%
+Percentage of tasks assigned to moe that have not yet been completed and are overdue:	 0.0%
+───────────────────────────────────────────────────────────────────────────────────────────────
+The Following Users Have Been Registered In The System And Do Not Have Any Current Tasks Assigned:
+Usernames: june, john, matt, lewis
